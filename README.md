@@ -1,5 +1,5 @@
 # pathfinder
-Pathfinder v1501 (2015-10-26) by Mauro Pagano
+Pathfinder v1601 (2015-01-03) by Mauro Pagano
 
 Pathfinder is a "free to use" tool to perform brute-force analysis of execution plans
 for a SQL statement. 
@@ -10,6 +10,7 @@ It's recommended to use Pathfinder in test, use it in production only after care
 and if you understand the risks. 
 Output ZIP file can be large (several MBs), so you may want to execute Pathfinder 
 from a system directory with at least 1 GB of free space. 
+Minimum Oracle database version tested 10.2 (should also work on 10.1).
 
 Steps
 ~~~~~
